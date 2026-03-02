@@ -31,4 +31,4 @@ To compile and run this game, you will need a C++ compiler (like GCC) and the **
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)BrotherBaligh/FlappyBird-SFML.git
+   git clone https://github.com/BrotherBaligh/FlappyBird-SFML.git
